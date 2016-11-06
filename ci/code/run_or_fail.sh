@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # helper method for providing error messages for a command
 run_or_fail() {
   local explanation=$1
